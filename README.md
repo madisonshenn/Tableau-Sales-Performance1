@@ -1,2 +1,3 @@
-# data_visualization_project
-Using Tableau to create dashboard using visualization on sale performance and customer analysis result.
+# Sales Performance Data Visualization | Tableau
+#Audience: Sales managers and executives
+# Present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends
